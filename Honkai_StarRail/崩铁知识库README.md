@@ -246,3 +246,10 @@ type: "剧情解读"
 - [[Honkai_StarRail/32_关卡背景/关卡背景-索引|关卡背景-索引]]
 - [[Honkai_StarRail/25_物品故事/物品故事-索引|物品故事-索引]]
 <!-- fourth:end -->
+
+## 书籍分卷与玩法叙事
+
+- [[Honkai_StarRail/12_书架/补充原文-索引|书籍补充原文]]
+- [[Honkai_StarRail/33_玩法叙事/补充原文-索引|玩法叙事]]
+- [[Honkai_StarRail/29_模拟宇宙档案/补充原文-索引|不可知域秘闻剧情]]
+- [[Honkai_StarRail/25_物品故事/补充原文-索引|剧情绘本]]
