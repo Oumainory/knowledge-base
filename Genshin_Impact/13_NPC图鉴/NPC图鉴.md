@@ -7,10 +7,10 @@ type: "MOC"
 # NPC图鉴
 
 > 按 NPC 图鉴的 11 个实际内容分区收录；同一详情页身份只生成一篇笔记，并保留其全部分区、地点和状态。
-> 当前共 2760 个唯一 NPC 身份。
+> 当前共 2761 个唯一 NPC 身份。
 > “全部”是指向“蒙德”的重定向，不作为独立分区或完整性对照。
 > 排除辅助页：NPC图鉴/低负载模式、NPC图鉴/须弥/统计。
-> Category:NPC 仅作差异诊断：分类页 2812 项，图鉴分区并集 2760 项，分类页多出 52 项；差异不扩展本图鉴范围。
+> Category:NPC 仅作差异诊断：分类页 2813 项，图鉴分区并集 2761 项，分类页多出 52 项；差异不扩展本图鉴范围。
 
 ## 稻妻
 
@@ -745,6 +745,7 @@ type: "MOC"
 - [[Genshin_Impact/13_NPC图鉴/璃月/大喜儿|大喜儿]]
 - [[Genshin_Impact/13_NPC图鉴/璃月/大壮|大壮]]
 - [[Genshin_Impact/13_NPC图鉴/蒙德/丹迪|丹迪]]
+- [[Genshin_Impact/13_NPC图鉴/蒙德/道子|道子]]
 - [[Genshin_Impact/13_NPC图鉴/璃月/德安公|德安公]]
 - [[Genshin_Impact/13_NPC图鉴/璃月/德财|德财]]
 - [[Genshin_Impact/13_NPC图鉴/璃月/德贵|德贵]]
@@ -1145,6 +1146,7 @@ type: "MOC"
 - [[Genshin_Impact/13_NPC图鉴/蒙德/戴维|戴维]]
 - [[Genshin_Impact/13_NPC图鉴/蒙德/黛安|黛安]]
 - [[Genshin_Impact/13_NPC图鉴/蒙德/丹迪|丹迪]]
+- [[Genshin_Impact/13_NPC图鉴/蒙德/道子|道子]]
 - [[Genshin_Impact/13_NPC图鉴/蒙德/德佑|德佑]]
 - [[Genshin_Impact/13_NPC图鉴/蒙德/狄奥提玛|狄奥提玛]]
 - [[Genshin_Impact/13_NPC图鉴/蒙德/迪特玛尔|迪特玛尔]]
